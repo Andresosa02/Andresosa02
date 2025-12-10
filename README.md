@@ -1,9 +1,3 @@
-<div align="center">
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/Andresosa02/count.svg"/>
-  <br/>
-</div>
-
 # 💫 Sobre Mi:
 Ingeniero de Software y Diseñador Web. Convierto ideas complejas en productos digitales funcionales, elegantes y de alto rendimiento. Experto en el stack completo (HTML, CSS, JavaScript, React) con experiencia en Backend (Node.js, Supabase).
 
